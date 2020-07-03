@@ -2,7 +2,7 @@
 
 ##This is a small guide to use the uploaded "Selenium Test" Project##
 
-**Hope you'd find it as easy to run the Java Automation Test Script!!!!**
+**Hope you'd find it easy to run the Java Automation Test Script!!!!**
 
 **_Pre-requisites_**
 1. Eclipse installed in system to serve as IDE for running the script
